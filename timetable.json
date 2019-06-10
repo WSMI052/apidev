@@ -750,7 +750,7 @@
                 "facebook": "",
                 "youtube": "",
                 "image": "",
-                "duration": 80,
+                "duration": 100,
                 "start": "21:20",
                 "end": "23:00",
                 "play_list": [
@@ -1098,9 +1098,9 @@
                 "facebook": "",
                 "youtube": "",
                 "image": "",
-                "duration": 80
+                "duration": 100,
                 "start": "21:20",
-                "end": "23:00,
+                "end": "23:00",
                 "play_list": [
                     
                 ]
@@ -2125,9 +2125,9 @@
                 "facebook": "",
                 "youtube": "",
                 "image": "",
-                "duration": 180
+                "duration": 180,
                 "start": "20:00",
-                "end": "23:00,
+                "end": "23:00",
                 "play_list": [
                     
                 ]
@@ -2794,9 +2794,9 @@
                 "facebook": "",
                 "youtube": "",
                 "image": "",
-                "duration": 60,
+                "duration": 100,
                 "start": "21:20",
-                "end": "22:00",
+                "end": "23:00",
                 "play_list": [
                     
                 ]
@@ -7955,7 +7955,7 @@
                     
                 ]
             },
-                        {
+            {
                 "isshow": false,
                 "name": "",
                 "date": "",
