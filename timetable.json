@@ -12,23 +12,6 @@
                 "facebook": "",
                 "youtube": "",
                 "image": "",
-                "duration": 30,
-                "start": ":",
-                "end": ":",
-                "play_list": [
-                    
-                ]
-            },
-            {
-                "isshow": false,
-                "name": "",
-                "date": "",
-                "info": "",
-                "stage": "",
-                "website": "",
-                "facebook": "",
-                "youtube": "",
-                "image": "",
                 "duration": 60,
                 "start": "15:00",
                 "end": "16:00",
@@ -2875,23 +2858,6 @@
     ],
     "secondday": [
         [
-            {
-                "isshow": false,
-                "name": "",
-                "date": "",
-                "info": "",
-                "stage": "",
-                "website": "",
-                "facebook": "",
-                "youtube": "",
-                "image": "",
-                "duration": 30,
-                "start": ":",
-                "end": ":",
-                "play_list": [
-                    
-                ]
-            },
             {
                 "isshow": false,
                 "name": "",
@@ -8027,23 +7993,6 @@
     ],
     "thirday": [
         [
-            {
-                "isshow": false,
-                "name": "",
-                "date": "",
-                "info": "",
-                "stage": "",
-                "website": "",
-                "facebook": "",
-                "youtube": "",
-                "image": "",
-                "duration": 30,
-                "start": ":",
-                "end": ":",
-                "play_list": [
-                    
-                ]
-            },
             {
                 "isshow": false,
                 "name": "",
