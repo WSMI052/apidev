@@ -752,7 +752,7 @@
                 "image": "",
                 "duration": 80,
                 "start": "21:20",
-                "end": "22:00",
+                "end": "23:00",
                 "play_list": [
                     
                 ]
@@ -1098,9 +1098,9 @@
                 "facebook": "",
                 "youtube": "",
                 "image": "",
-                "duration": 360,
+                "duration": 80
                 "start": "21:20",
-                "end": "22:00",
+                "end": "23:00,
                 "play_list": [
                     
                 ]
@@ -2125,9 +2125,9 @@
                 "facebook": "",
                 "youtube": "",
                 "image": "",
-                "duration": 420,
+                "duration": 180
                 "start": "20:00",
-                "end": "20:40",
+                "end": "23:00,
                 "play_list": [
                     
                 ]
@@ -7951,6 +7951,23 @@
                 "duration": 780,
                 "start": "",
                 "end": "",
+                "play_list": [
+                    
+                ]
+            },
+                        {
+                "isshow": false,
+                "name": "",
+                "date": "",
+                "info": "",
+                "stage": "",
+                "website": "",
+                "facebook": "",
+                "youtube": "",
+                "image": "",
+                "duration": 30,
+                "start": "23:00",
+                "end": "00:00",
                 "play_list": [
                     
                 ]
