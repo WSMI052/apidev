@@ -2534,9 +2534,9 @@
                 "facebook": "",
                 "youtube": "",
                 "image": "",
-                "duration": 300,
-                "start": "",
-                "end": "",
+                "duration": 60,
+                "start": "22:00",
+                "end": "23:00",
                 "play_list": [
                     
                 ]
@@ -2800,6 +2800,23 @@
                 "play_list": [
                     
                 ]
+            },
+            {
+                "isshow": false,
+                "name": "",
+                "date": "",
+                "info": "",
+                "stage": "",
+                "website": "",
+                "facebook": "",
+                "youtube": "",
+                "image": "",
+                "duration": 60,
+                "start": "22:00",
+                "end": "23:00",
+                "play_list": [
+                    
+                ]
             }
         ],
         [
@@ -2813,16 +2830,16 @@
                 "facebook": "",
                 "youtube": "",
                 "image": "",
-                "duration": 420,
-                "start": "",
-                "end": "",
+                "duration": 60,
+                "start": "15:00",
+                "end": "16:00",
                 "play_list": [
                     
                 ]
             },
             {
                 "isshow": false,
-                "name": "另行購票 EXTRA TICKET",
+                "name": "",
                 "date": "",
                 "info": "",
                 "stage": "",
@@ -2830,148 +2847,94 @@
                 "facebook": "",
                 "youtube": "",
                 "image": "",
-                "duration": 60,
-                "start": "",
-                "end": "",
+                "duration": 40,
+                "start": "16:00",
+                "end": "16:40",
+                "play_list": [
+                    
+                ]
+            },
+            {
+                "isshow": false,
+                "name": "",
+                "date": "",
+                "info": "",
+                "stage": "",
+                "website": "",
+                "facebook": "",
+                "youtube": "",
+                "image": "",
+                "duration": 40,
+                "start": "16:40",
+                "end": "17:20",
+                "play_list": [
+                    
+                ]
+            },
+            {
+                "isshow": false,
+                "name": "",
+                "date": "",
+                "info": "",
+                "stage": "",
+                "website": "",
+                "facebook": "",
+                "youtube": "",
+                "image": "",
+                "duration": 40,
+                "start": "17:20",
+                "end": "18:00",
+                "play_list": [
+                    
+                ]
+            },
+            {
+                "isshow": false,
+                "name": "",
+                "date": "2019-07-05 18:00:00",
+                "info": "",
+                "stage": "",
+                "website": "",
+                "facebook": "",
+                "youtube": "",
+                "image": "",
+                "duration": 40,
+                "start": "18:00",
+                "end": "18:40",
+                "play_list": [
+                    
+                ]
+            },
+            {
+                "isshow": false,
+                "name": "",
+                "date": "",
+                "info": "",
+                "stage": "",
+                "website": "",
+                "facebook": "",
+                "youtube": "",
+                "image": "",
+                "duration": 40,
+                "start": "18:40",
+                "end": "19:20",
                 "play_list": [
                     
                 ]
             },
             {
                 "isshow": true,
-                "name": "～wei千八女鬼愛情故事wei～",
-                "date": "2019-07-05 23:00:00",
-                "info": "「生吞活剝」——官Ｏ剛\n「上次你放歌都沒人耶（屁啦）」—— ArchX Chang\n「阿你會穿很少嗎」——我媽\n「菁仔～ 是不會飛翔的金龜子；金龜子～ 是落在天上的菁仔。。。。」——魏筠倢\n\n此次選歌以荷爾蒙系示愛戀曲為主，激情/慢舞/尋仇/尋歡，進來了就不要出去，跟喜歡的人偷偷靠近！聯手崩壞！要趴夏去了ㄛ寶貝！",
-                "stage": "山丘",
+                "name": "山海屯海盜電台2",
+                "date": "2019-07-05 19:20:00",
+                "info": "「山海屯海盜電台」由山海屯搖滾祭的三位共同創辦人─山線：張宥憲（Yuki）、海線：陳老諾（諾哥）、屯區：劉鈞輝（島輝）所組成，為本次覺醒音樂祭期間限定的DJ組合。三位長期深耕於大台中地區的獨立音樂，見證整個台中樂團文化的變遷，不僅致力於社區音樂文化的發展，並於2018年共同攜手引進世界各地的樂團，為中部的觀眾帶來國際級的演出。三位會於今年度的覺醒音樂祭再度合體，以「山海屯海盜電台」的名義和DJ形式演出，將金屬、龐克和老學校等長年私藏在口袋的好盤拿出來，與覺醒音樂祭的樂迷們分享！",
+                "stage": "電火雞",
                 "website": "",
-                "facebook": "",
-                "youtube": "",
-                "image": "http://www.wakeupfestival.com.tw/img/artist/weiwei.jpg",
-                "duration": 60,
-                "start": "23:00",
-                "end": "00:00",
-                "play_list": [
-                    {
-                        "name": "Farewell, Farewell",
-                        "img": "https://i.scdn.co/image/af5054b7379aa8678ecf0567382e2522a36dbbad",
-                        "mp3URL": "https://p.scdn.co/mp3-preview/e162b8ec67215b24a11757e9f03cc03ea9cf62be?cid=ba4466e60cda496b81d0a3f3ef98fa70"
-                    },
-                    {
-                        "name": "Roadtrip",
-                        "img": "https://i.scdn.co/image/af5054b7379aa8678ecf0567382e2522a36dbbad",
-                        "mp3URL": "https://p.scdn.co/mp3-preview/cdef6b7a0134c4e838cfc14850b54cc4eafab63b?cid=ba4466e60cda496b81d0a3f3ef98fa70"
-                    },
-                    {
-                        "name": "Magic Bus",
-                        "img": "https://i.scdn.co/image/af5054b7379aa8678ecf0567382e2522a36dbbad",
-                        "mp3URL": "https://p.scdn.co/mp3-preview/8679937846dd4a0d9b05fea43226f9ae6151bcc3?cid=ba4466e60cda496b81d0a3f3ef98fa70"
-                    },
-                    {
-                        "name": "Ghost City",
-                        "img": "https://i.scdn.co/image/af5054b7379aa8678ecf0567382e2522a36dbbad",
-                        "mp3URL": "https://p.scdn.co/mp3-preview/a4ab4d88620980f237bed06dda97f9fd682ff26c?cid=ba4466e60cda496b81d0a3f3ef98fa70"
-                    },
-                    {
-                        "name": "Stander",
-                        "img": "https://i.scdn.co/image/af5054b7379aa8678ecf0567382e2522a36dbbad",
-                        "mp3URL": "https://p.scdn.co/mp3-preview/14918547017418c23259f6e0d6b48fb0dd159807?cid=ba4466e60cda496b81d0a3f3ef98fa70"
-                    },
-                    {
-                        "name": "Grownup",
-                        "img": "https://i.scdn.co/image/af5054b7379aa8678ecf0567382e2522a36dbbad",
-                        "mp3URL": "https://p.scdn.co/mp3-preview/873e8e75e1891be21db39c84dccaf4c48e6d5742?cid=ba4466e60cda496b81d0a3f3ef98fa70"
-                    },
-                    {
-                        "name": "Swimming Pool (Dreaming Fool)",
-                        "img": "https://i.scdn.co/image/af5054b7379aa8678ecf0567382e2522a36dbbad",
-                        "mp3URL": "https://p.scdn.co/mp3-preview/763856d089e39c4cdd9d6b1b47e6516c9e2e3a57?cid=ba4466e60cda496b81d0a3f3ef98fa70"
-                    },
-                    {
-                        "name": "Losing Game",
-                        "img": "https://i.scdn.co/image/af5054b7379aa8678ecf0567382e2522a36dbbad",
-                        "mp3URL": "https://p.scdn.co/mp3-preview/9a7360a1a725e69ffe1ba7d2e365be2970d2e1d3?cid=ba4466e60cda496b81d0a3f3ef98fa70"
-                    },
-                    {
-                        "name": "Fish",
-                        "img": "https://i.scdn.co/image/af5054b7379aa8678ecf0567382e2522a36dbbad",
-                        "mp3URL": "https://p.scdn.co/mp3-preview/9c832606e209e8a8033525f22839ac81dc2346f4?cid=ba4466e60cda496b81d0a3f3ef98fa70"
-                    }
-                ]
-            },
-            {
-                "isshow": true,
-                "name": "華衛音樂自救會",
-                "date": "2019-07-05 00:00:00 ",
-                "info": "遙想二十世紀末 那個網路還停留在撥接 沒有洪爺 沒有免空 當然也不會有youtube的時代 華衛音樂台總在不扣鈕的女孩和赤裸羔羊開演前陪著我渡過那混雜寂寞空虛焦慮與期待的幾個小時 如今 2012的我們早已長大成人 早已不再因爲看到胸部而欣喜若狂 早已不需死守著學者和龍祥只爲一睹佳人風采\n但唯有華衛音樂台 始終不離不棄 伴隨我每個寂寞空虛的時刻 華衛音樂台是我們的根 生而為人不能沒有根 華衛音樂台是我們的梗 放歌不能沒有梗",
-                "stage": "山丘",
-                "website": "",
-                "facebook": "https://www.facebook.com/HuaWeiYinLeZiJiuHui/",
-                "youtube": "",
-                "image": "http://www.wakeupfestival.com.tw/img/artist/HuaWeiYinLeZiJiuHui.jpg",
-                "duration": 60,
-                "start": "00:00",
-                "end": "01:00",
-                "play_list": [
-                    {
-                        "name": "Farewell, Farewell",
-                        "img": "https://i.scdn.co/image/af5054b7379aa8678ecf0567382e2522a36dbbad",
-                        "mp3URL": "https://p.scdn.co/mp3-preview/e162b8ec67215b24a11757e9f03cc03ea9cf62be?cid=ba4466e60cda496b81d0a3f3ef98fa70"
-                    },
-                    {
-                        "name": "Roadtrip",
-                        "img": "https://i.scdn.co/image/af5054b7379aa8678ecf0567382e2522a36dbbad",
-                        "mp3URL": "https://p.scdn.co/mp3-preview/cdef6b7a0134c4e838cfc14850b54cc4eafab63b?cid=ba4466e60cda496b81d0a3f3ef98fa70"
-                    },
-                    {
-                        "name": "Magic Bus",
-                        "img": "https://i.scdn.co/image/af5054b7379aa8678ecf0567382e2522a36dbbad",
-                        "mp3URL": "https://p.scdn.co/mp3-preview/8679937846dd4a0d9b05fea43226f9ae6151bcc3?cid=ba4466e60cda496b81d0a3f3ef98fa70"
-                    },
-                    {
-                        "name": "Ghost City",
-                        "img": "https://i.scdn.co/image/af5054b7379aa8678ecf0567382e2522a36dbbad",
-                        "mp3URL": "https://p.scdn.co/mp3-preview/a4ab4d88620980f237bed06dda97f9fd682ff26c?cid=ba4466e60cda496b81d0a3f3ef98fa70"
-                    },
-                    {
-                        "name": "Stander",
-                        "img": "https://i.scdn.co/image/af5054b7379aa8678ecf0567382e2522a36dbbad",
-                        "mp3URL": "https://p.scdn.co/mp3-preview/14918547017418c23259f6e0d6b48fb0dd159807?cid=ba4466e60cda496b81d0a3f3ef98fa70"
-                    },
-                    {
-                        "name": "Grownup",
-                        "img": "https://i.scdn.co/image/af5054b7379aa8678ecf0567382e2522a36dbbad",
-                        "mp3URL": "https://p.scdn.co/mp3-preview/873e8e75e1891be21db39c84dccaf4c48e6d5742?cid=ba4466e60cda496b81d0a3f3ef98fa70"
-                    },
-                    {
-                        "name": "Swimming Pool (Dreaming Fool)",
-                        "img": "https://i.scdn.co/image/af5054b7379aa8678ecf0567382e2522a36dbbad",
-                        "mp3URL": "https://p.scdn.co/mp3-preview/763856d089e39c4cdd9d6b1b47e6516c9e2e3a57?cid=ba4466e60cda496b81d0a3f3ef98fa70"
-                    },
-                    {
-                        "name": "Losing Game",
-                        "img": "https://i.scdn.co/image/af5054b7379aa8678ecf0567382e2522a36dbbad",
-                        "mp3URL": "https://p.scdn.co/mp3-preview/9a7360a1a725e69ffe1ba7d2e365be2970d2e1d3?cid=ba4466e60cda496b81d0a3f3ef98fa70"
-                    },
-                    {
-                        "name": "Fish",
-                        "img": "https://i.scdn.co/image/af5054b7379aa8678ecf0567382e2522a36dbbad",
-                        "mp3URL": "https://p.scdn.co/mp3-preview/9c832606e209e8a8033525f22839ac81dc2346f4?cid=ba4466e60cda496b81d0a3f3ef98fa70"
-                    }
-                ]
-            },
-            {
-                "isshow": true,
-                "name": "Lu",
-                "date": "2019-07-05 01:00:00",
-                "info": "盧家齊\n（湯湯水水、破地獄、LUDU）\n\n家齊的使用方法：\n1.為人斯文，瀟灑不踰矩，桃花電眼貼圖，殺人於無形，流傳於地下拍賣會，見聞者七天之內必轉貼\n2.大風大浪浪味仙，大立大破破地獄，大江大海沒加蓋，大珠小珠落玉盤\n3.城市男孩團體LuDu，台北不放他們走之你的男孩\n4.曬了烘乾，香香的。泡水會散開，形如寶珠，可以吃嗎？阿嶽覺得可以！",
-                "stage": "山丘",
-                "website": "",
-                "facebook": "",
-                "youtube": "",
-                "image": "http://www.wakeupfestival.com.tw/img/artist/Lu.jpg",
-                "duration": 60,
-                "start": "01:00",
-                "end": "02:00",
+                "facebook": "https://www.facebook.com/heartownrockfest/",
+                "youtube": "https://www.youtube.com/user/hearttownfestival",
+                "image": "http://www.wakeupfestival.com.tw/img/artist/HeartTownPirateRadio.jpg",
+                "duration": 40,
+                "start": "19:20",
+                "end": "20:00",
                 "play_list": [
                     {
                         "name": "Farewell, Farewell",
@@ -3030,9 +2993,104 @@
                 "facebook": "",
                 "youtube": "",
                 "image": "",
+                "duration": 40,
+                "start": "20:00",
+                "end": "20:40",
+                "play_list": [
+                    
+                ]
+            },
+            {
+                "isshow": true,
+                "name": "呱吉2",
+                "date": "2019-07-05 20:40:00",
+                "info": "90年代前衛劇團 台灣渥克 編劇/導演/演員 - 關注台灣非主流文化與青年議題20年以上 迪士尼商務發展經理 - 於知名外商從事智慧財產授權相關工作 網路與手機遊戲公司高階主管 - 對娛樂、軟體、電競產業有10年以上的實務經驗 上班不要看 / 陸伍伍參伍娛樂股份有限公司創辦人 - 致力於在地新媒體的發展與創新",
+                "stage": "電火雞",
+                "website": "",
+                "facebook": "https://www.facebook.com/froggychiu/",
+                "youtube": "https://www.youtube.com/user/FroggyChiu",
+                "image": "http://www.wakeupfestival.com.tw/img/artist/froggychiu.jpg",
+                "duration": 40,
+                "start": "20:40",
+                "end": "21:20",
+                "play_list": [
+                    {
+                        "name": "Farewell, Farewell",
+                        "img": "https://i.scdn.co/image/af5054b7379aa8678ecf0567382e2522a36dbbad",
+                        "mp3URL": "https://p.scdn.co/mp3-preview/e162b8ec67215b24a11757e9f03cc03ea9cf62be?cid=ba4466e60cda496b81d0a3f3ef98fa70"
+                    },
+                    {
+                        "name": "Roadtrip",
+                        "img": "https://i.scdn.co/image/af5054b7379aa8678ecf0567382e2522a36dbbad",
+                        "mp3URL": "https://p.scdn.co/mp3-preview/cdef6b7a0134c4e838cfc14850b54cc4eafab63b?cid=ba4466e60cda496b81d0a3f3ef98fa70"
+                    },
+                    {
+                        "name": "Magic Bus",
+                        "img": "https://i.scdn.co/image/af5054b7379aa8678ecf0567382e2522a36dbbad",
+                        "mp3URL": "https://p.scdn.co/mp3-preview/8679937846dd4a0d9b05fea43226f9ae6151bcc3?cid=ba4466e60cda496b81d0a3f3ef98fa70"
+                    },
+                    {
+                        "name": "Ghost City",
+                        "img": "https://i.scdn.co/image/af5054b7379aa8678ecf0567382e2522a36dbbad",
+                        "mp3URL": "https://p.scdn.co/mp3-preview/a4ab4d88620980f237bed06dda97f9fd682ff26c?cid=ba4466e60cda496b81d0a3f3ef98fa70"
+                    },
+                    {
+                        "name": "Stander",
+                        "img": "https://i.scdn.co/image/af5054b7379aa8678ecf0567382e2522a36dbbad",
+                        "mp3URL": "https://p.scdn.co/mp3-preview/14918547017418c23259f6e0d6b48fb0dd159807?cid=ba4466e60cda496b81d0a3f3ef98fa70"
+                    },
+                    {
+                        "name": "Grownup",
+                        "img": "https://i.scdn.co/image/af5054b7379aa8678ecf0567382e2522a36dbbad",
+                        "mp3URL": "https://p.scdn.co/mp3-preview/873e8e75e1891be21db39c84dccaf4c48e6d5742?cid=ba4466e60cda496b81d0a3f3ef98fa70"
+                    },
+                    {
+                        "name": "Swimming Pool (Dreaming Fool)",
+                        "img": "https://i.scdn.co/image/af5054b7379aa8678ecf0567382e2522a36dbbad",
+                        "mp3URL": "https://p.scdn.co/mp3-preview/763856d089e39c4cdd9d6b1b47e6516c9e2e3a57?cid=ba4466e60cda496b81d0a3f3ef98fa70"
+                    },
+                    {
+                        "name": "Losing Game",
+                        "img": "https://i.scdn.co/image/af5054b7379aa8678ecf0567382e2522a36dbbad",
+                        "mp3URL": "https://p.scdn.co/mp3-preview/9a7360a1a725e69ffe1ba7d2e365be2970d2e1d3?cid=ba4466e60cda496b81d0a3f3ef98fa70"
+                    },
+                    {
+                        "name": "Fish",
+                        "img": "https://i.scdn.co/image/af5054b7379aa8678ecf0567382e2522a36dbbad",
+                        "mp3URL": "https://p.scdn.co/mp3-preview/9c832606e209e8a8033525f22839ac81dc2346f4?cid=ba4466e60cda496b81d0a3f3ef98fa70"
+                    }
+                ]
+            },
+            {
+                "isshow": false,
+                "name": "",
+                "date": "",
+                "info": "",
+                "stage": "",
+                "website": "",
+                "facebook": "",
+                "youtube": "",
+                "image": "",
+                "duration": 360,
+                "start": "21:20",
+                "end": "22:00",
+                "play_list": [
+                    
+                ]
+            },
+                        {
+                "isshow": false,
+                "name": "",
+                "date": "",
+                "info": "",
+                "stage": "",
+                "website": "",
+                "facebook": "",
+                "youtube": "",
+                "image": "",
                 "duration": 60,
-                "start": "",
-                "end": "",
+                "start": "22:00",
+                "end": "23:00",
                 "play_list": [
                     
                 ]
@@ -3052,8 +3110,8 @@
                 "youtube": "",
                 "image": "",
                 "duration": 80,
-                "start": "",
-                "end": "",
+                "start": "10:00",
+                "end": "11:20",
                 "play_list": [
                     
                 ]
@@ -8118,23 +8176,6 @@
                         "mp3URL": "https://p.scdn.co/mp3-preview/9c832606e209e8a8033525f22839ac81dc2346f4?cid=ba4466e60cda496b81d0a3f3ef98fa70"
                     }
                 ]
-            },
-            {
-                "isshow": false,
-                "name": "test",
-                "date": "",
-                "info": "",
-                "stage": "",
-                "website": "",
-                "facebook": "",
-                "youtube": "",
-                "image": "",
-                "duration": 300,
-                "start": "22:00",
-                "end": "03:00",
-                "play_list": [
-                    
-                ]
             }
         ],
         [
@@ -8148,16 +8189,16 @@
                 "facebook": "",
                 "youtube": "",
                 "image": "",
-                "duration": 720,
-                "start": "",
-                "end": "",
+                "duration": 60,
+                "start": "10:00",
+                "end": "11:00",
                 "play_list": [
                     
                 ]
             },
             {
                 "isshow": false,
-                "name": "另行購票 EXTRA TICKET",
+                "name": "",
                 "date": "",
                 "info": "",
                 "stage": "",
@@ -8166,513 +8207,93 @@
                 "youtube": "",
                 "image": "",
                 "duration": 60,
-                "start": "",
-                "end": "",
+                "start": "11:00",
+                "end": "12:00",
+                "play_list": [
+                    
+                ]
+            },
+            {
+                "isshow": false,
+                "name": "",
+                "date": "",
+                "info": "",
+                "stage": "",
+                "website": "",
+                "facebook": "",
+                "youtube": "",
+                "image": "",
+                "duration": 40,
+                "start": "12:00",
+                "end": "12:40",
+                "play_list": [
+                    
+                ]
+            },
+            {
+                "isshow": false,
+                "name": "",
+                "date": "",
+                "info": "",
+                "stage": "",
+                "website": "",
+                "facebook": "",
+                "youtube": "",
+                "image": "",
+                "duration": 40,
+                "start": "12:40",
+                "end": "13:20",
+                "play_list": [
+                    
+                ]
+            },
+            {
+                "isshow": false,
+                "name": "",
+                "date": "",
+                "info": "",
+                "stage": "",
+                "website": "",
+                "facebook": "",
+                "youtube": "",
+                "image": "",
+                "duration": 40,
+                "start": "13:20",
+                "end": "14:00",
+                "play_list": [
+                    
+                ]
+            },
+            {
+                "isshow": false,
+                "name": "",
+                "date": "",
+                "info": "",
+                "stage": "",
+                "website": "",
+                "facebook": "",
+                "youtube": "",
+                "image": "",
+                "duration": 40,
+                "start": "14:00",
+                "end": "14:40",
                 "play_list": [
                     
                 ]
             },
             {
                 "isshow": true,
-                "name": "Ahblue",
-                "date": "2019-07-06 23:00:00",
-                "info": "Ahblue (Waiting Room、Machu Picchu、華衛音樂自救會)\n是個好哥們，放歌是重點，喝酒亦是，重度文化觀察者、散步家，你會喜歡他，只要聊上幾句。\nby 謝閎宥 (Airhead Records.)",
-                "stage": "山丘",
+                "name": "Bullet",
+                "date": "2019-07-07 14:40:00",
+                "info": "有幸能夠上WakeUp表演，那就是好玩的鏘的啊！",
+                "stage": "火雞",
                 "website": "",
                 "facebook": "",
                 "youtube": "",
-                "image": "http://www.wakeupfestival.com.tw/img/artist/Ahblue.jpg",
-                "duration": 20,
-                "start": "23:00",
-                "end": "23:20",
-                "play_list": [
-                    {
-                        "name": "Farewell, Farewell",
-                        "img": "https://i.scdn.co/image/af5054b7379aa8678ecf0567382e2522a36dbbad",
-                        "mp3URL": "https://p.scdn.co/mp3-preview/e162b8ec67215b24a11757e9f03cc03ea9cf62be?cid=ba4466e60cda496b81d0a3f3ef98fa70"
-                    },
-                    {
-                        "name": "Roadtrip",
-                        "img": "https://i.scdn.co/image/af5054b7379aa8678ecf0567382e2522a36dbbad",
-                        "mp3URL": "https://p.scdn.co/mp3-preview/cdef6b7a0134c4e838cfc14850b54cc4eafab63b?cid=ba4466e60cda496b81d0a3f3ef98fa70"
-                    },
-                    {
-                        "name": "Magic Bus",
-                        "img": "https://i.scdn.co/image/af5054b7379aa8678ecf0567382e2522a36dbbad",
-                        "mp3URL": "https://p.scdn.co/mp3-preview/8679937846dd4a0d9b05fea43226f9ae6151bcc3?cid=ba4466e60cda496b81d0a3f3ef98fa70"
-                    },
-                    {
-                        "name": "Ghost City",
-                        "img": "https://i.scdn.co/image/af5054b7379aa8678ecf0567382e2522a36dbbad",
-                        "mp3URL": "https://p.scdn.co/mp3-preview/a4ab4d88620980f237bed06dda97f9fd682ff26c?cid=ba4466e60cda496b81d0a3f3ef98fa70"
-                    },
-                    {
-                        "name": "Stander",
-                        "img": "https://i.scdn.co/image/af5054b7379aa8678ecf0567382e2522a36dbbad",
-                        "mp3URL": "https://p.scdn.co/mp3-preview/14918547017418c23259f6e0d6b48fb0dd159807?cid=ba4466e60cda496b81d0a3f3ef98fa70"
-                    },
-                    {
-                        "name": "Grownup",
-                        "img": "https://i.scdn.co/image/af5054b7379aa8678ecf0567382e2522a36dbbad",
-                        "mp3URL": "https://p.scdn.co/mp3-preview/873e8e75e1891be21db39c84dccaf4c48e6d5742?cid=ba4466e60cda496b81d0a3f3ef98fa70"
-                    },
-                    {
-                        "name": "Swimming Pool (Dreaming Fool)",
-                        "img": "https://i.scdn.co/image/af5054b7379aa8678ecf0567382e2522a36dbbad",
-                        "mp3URL": "https://p.scdn.co/mp3-preview/763856d089e39c4cdd9d6b1b47e6516c9e2e3a57?cid=ba4466e60cda496b81d0a3f3ef98fa70"
-                    },
-                    {
-                        "name": "Losing Game",
-                        "img": "https://i.scdn.co/image/af5054b7379aa8678ecf0567382e2522a36dbbad",
-                        "mp3URL": "https://p.scdn.co/mp3-preview/9a7360a1a725e69ffe1ba7d2e365be2970d2e1d3?cid=ba4466e60cda496b81d0a3f3ef98fa70"
-                    },
-                    {
-                        "name": "Fish",
-                        "img": "https://i.scdn.co/image/af5054b7379aa8678ecf0567382e2522a36dbbad",
-                        "mp3URL": "https://p.scdn.co/mp3-preview/9c832606e209e8a8033525f22839ac81dc2346f4?cid=ba4466e60cda496b81d0a3f3ef98fa70"
-                    }
-                ]
-            },
-            {
-                "isshow": true,
-                "name": "鍋爐爺爺",
-                "date": "2019-07-06 23:20:00",
-                "info": "從嘉義出發\n目標成為無法被取代的台語饒舌代表\n鍋爐爺爺即將席捲全台",
-                "stage": "山丘",
-                "website": "",
-                "facebook": "https://www.facebook.com/GrandpaTrevor/",
-                "youtube": "https://www.youtube.com/channel/UClvmRvo_O8ATUJnqixduEXw",
-                "image": "http://www.wakeupfestival.com.tw/img/artist/BoilerGrandpa.jpg",
-                "duration": 20,
-                "start": "23:20",
-                "end": "23:40",
-                "play_list": [
-                    {
-                        "name": "Farewell, Farewell",
-                        "img": "https://i.scdn.co/image/af5054b7379aa8678ecf0567382e2522a36dbbad",
-                        "mp3URL": "https://p.scdn.co/mp3-preview/e162b8ec67215b24a11757e9f03cc03ea9cf62be?cid=ba4466e60cda496b81d0a3f3ef98fa70"
-                    },
-                    {
-                        "name": "Roadtrip",
-                        "img": "https://i.scdn.co/image/af5054b7379aa8678ecf0567382e2522a36dbbad",
-                        "mp3URL": "https://p.scdn.co/mp3-preview/cdef6b7a0134c4e838cfc14850b54cc4eafab63b?cid=ba4466e60cda496b81d0a3f3ef98fa70"
-                    },
-                    {
-                        "name": "Magic Bus",
-                        "img": "https://i.scdn.co/image/af5054b7379aa8678ecf0567382e2522a36dbbad",
-                        "mp3URL": "https://p.scdn.co/mp3-preview/8679937846dd4a0d9b05fea43226f9ae6151bcc3?cid=ba4466e60cda496b81d0a3f3ef98fa70"
-                    },
-                    {
-                        "name": "Ghost City",
-                        "img": "https://i.scdn.co/image/af5054b7379aa8678ecf0567382e2522a36dbbad",
-                        "mp3URL": "https://p.scdn.co/mp3-preview/a4ab4d88620980f237bed06dda97f9fd682ff26c?cid=ba4466e60cda496b81d0a3f3ef98fa70"
-                    },
-                    {
-                        "name": "Stander",
-                        "img": "https://i.scdn.co/image/af5054b7379aa8678ecf0567382e2522a36dbbad",
-                        "mp3URL": "https://p.scdn.co/mp3-preview/14918547017418c23259f6e0d6b48fb0dd159807?cid=ba4466e60cda496b81d0a3f3ef98fa70"
-                    },
-                    {
-                        "name": "Grownup",
-                        "img": "https://i.scdn.co/image/af5054b7379aa8678ecf0567382e2522a36dbbad",
-                        "mp3URL": "https://p.scdn.co/mp3-preview/873e8e75e1891be21db39c84dccaf4c48e6d5742?cid=ba4466e60cda496b81d0a3f3ef98fa70"
-                    },
-                    {
-                        "name": "Swimming Pool (Dreaming Fool)",
-                        "img": "https://i.scdn.co/image/af5054b7379aa8678ecf0567382e2522a36dbbad",
-                        "mp3URL": "https://p.scdn.co/mp3-preview/763856d089e39c4cdd9d6b1b47e6516c9e2e3a57?cid=ba4466e60cda496b81d0a3f3ef98fa70"
-                    },
-                    {
-                        "name": "Losing Game",
-                        "img": "https://i.scdn.co/image/af5054b7379aa8678ecf0567382e2522a36dbbad",
-                        "mp3URL": "https://p.scdn.co/mp3-preview/9a7360a1a725e69ffe1ba7d2e365be2970d2e1d3?cid=ba4466e60cda496b81d0a3f3ef98fa70"
-                    },
-                    {
-                        "name": "Fish",
-                        "img": "https://i.scdn.co/image/af5054b7379aa8678ecf0567382e2522a36dbbad",
-                        "mp3URL": "https://p.scdn.co/mp3-preview/9c832606e209e8a8033525f22839ac81dc2346f4?cid=ba4466e60cda496b81d0a3f3ef98fa70"
-                    }
-                ]
-            },
-            {
-                "isshow": true,
-                "name": "寂寞貼圖",
-                "date": "2019-07-06 23:40:00",
-                "info": "在這嘻哈逐漸壯大的時代\n來自名為K-town的兩位少年\n以彼此間一起鬼混的日常故事作為創作主題 \n無中生有不是我們的風格 \n每一首歌的靈感皆來自兄弟趴\n今晚不炫富 不裝gang 我們只講愛和感受寂寞\n\n「你寂寞嗎？那我們來玩遊戲吧。」 - 寂寞貼圖",
-                "stage": "山丘",
-                "website": "",
-                "facebook": "",
-                "youtube": "",
-                "image": "http://www.wakeupfestival.com.tw/img/artist/Lonely.jpg",
-                "duration": 20,
-                "start": "23:40",
-                "end": "00:00",
-                "play_list": [
-                    {
-                        "name": "Farewell, Farewell",
-                        "img": "https://i.scdn.co/image/af5054b7379aa8678ecf0567382e2522a36dbbad",
-                        "mp3URL": "https://p.scdn.co/mp3-preview/e162b8ec67215b24a11757e9f03cc03ea9cf62be?cid=ba4466e60cda496b81d0a3f3ef98fa70"
-                    },
-                    {
-                        "name": "Roadtrip",
-                        "img": "https://i.scdn.co/image/af5054b7379aa8678ecf0567382e2522a36dbbad",
-                        "mp3URL": "https://p.scdn.co/mp3-preview/cdef6b7a0134c4e838cfc14850b54cc4eafab63b?cid=ba4466e60cda496b81d0a3f3ef98fa70"
-                    },
-                    {
-                        "name": "Magic Bus",
-                        "img": "https://i.scdn.co/image/af5054b7379aa8678ecf0567382e2522a36dbbad",
-                        "mp3URL": "https://p.scdn.co/mp3-preview/8679937846dd4a0d9b05fea43226f9ae6151bcc3?cid=ba4466e60cda496b81d0a3f3ef98fa70"
-                    },
-                    {
-                        "name": "Ghost City",
-                        "img": "https://i.scdn.co/image/af5054b7379aa8678ecf0567382e2522a36dbbad",
-                        "mp3URL": "https://p.scdn.co/mp3-preview/a4ab4d88620980f237bed06dda97f9fd682ff26c?cid=ba4466e60cda496b81d0a3f3ef98fa70"
-                    },
-                    {
-                        "name": "Stander",
-                        "img": "https://i.scdn.co/image/af5054b7379aa8678ecf0567382e2522a36dbbad",
-                        "mp3URL": "https://p.scdn.co/mp3-preview/14918547017418c23259f6e0d6b48fb0dd159807?cid=ba4466e60cda496b81d0a3f3ef98fa70"
-                    },
-                    {
-                        "name": "Grownup",
-                        "img": "https://i.scdn.co/image/af5054b7379aa8678ecf0567382e2522a36dbbad",
-                        "mp3URL": "https://p.scdn.co/mp3-preview/873e8e75e1891be21db39c84dccaf4c48e6d5742?cid=ba4466e60cda496b81d0a3f3ef98fa70"
-                    },
-                    {
-                        "name": "Swimming Pool (Dreaming Fool)",
-                        "img": "https://i.scdn.co/image/af5054b7379aa8678ecf0567382e2522a36dbbad",
-                        "mp3URL": "https://p.scdn.co/mp3-preview/763856d089e39c4cdd9d6b1b47e6516c9e2e3a57?cid=ba4466e60cda496b81d0a3f3ef98fa70"
-                    },
-                    {
-                        "name": "Losing Game",
-                        "img": "https://i.scdn.co/image/af5054b7379aa8678ecf0567382e2522a36dbbad",
-                        "mp3URL": "https://p.scdn.co/mp3-preview/9a7360a1a725e69ffe1ba7d2e365be2970d2e1d3?cid=ba4466e60cda496b81d0a3f3ef98fa70"
-                    },
-                    {
-                        "name": "Fish",
-                        "img": "https://i.scdn.co/image/af5054b7379aa8678ecf0567382e2522a36dbbad",
-                        "mp3URL": "https://p.scdn.co/mp3-preview/9c832606e209e8a8033525f22839ac81dc2346f4?cid=ba4466e60cda496b81d0a3f3ef98fa70"
-                    }
-                ]
-            },
-            {
-                "isshow": true,
-                "name": "朱皮",
-                "date": "2019-07-07 00:00:00",
-                "info": "徵釣友。",
-                "stage": "山丘",
-                "website": "",
-                "facebook": "",
-                "youtube": "",
-                "image": "http://www.wakeupfestival.com.tw/img/artist/Zhupi.jpg",
-                "duration": 20,
-                "start": "00:00",
-                "end": "00:20",
-                "play_list": [
-                    {
-                        "name": "Farewell, Farewell",
-                        "img": "https://i.scdn.co/image/af5054b7379aa8678ecf0567382e2522a36dbbad",
-                        "mp3URL": "https://p.scdn.co/mp3-preview/e162b8ec67215b24a11757e9f03cc03ea9cf62be?cid=ba4466e60cda496b81d0a3f3ef98fa70"
-                    },
-                    {
-                        "name": "Roadtrip",
-                        "img": "https://i.scdn.co/image/af5054b7379aa8678ecf0567382e2522a36dbbad",
-                        "mp3URL": "https://p.scdn.co/mp3-preview/cdef6b7a0134c4e838cfc14850b54cc4eafab63b?cid=ba4466e60cda496b81d0a3f3ef98fa70"
-                    },
-                    {
-                        "name": "Magic Bus",
-                        "img": "https://i.scdn.co/image/af5054b7379aa8678ecf0567382e2522a36dbbad",
-                        "mp3URL": "https://p.scdn.co/mp3-preview/8679937846dd4a0d9b05fea43226f9ae6151bcc3?cid=ba4466e60cda496b81d0a3f3ef98fa70"
-                    },
-                    {
-                        "name": "Ghost City",
-                        "img": "https://i.scdn.co/image/af5054b7379aa8678ecf0567382e2522a36dbbad",
-                        "mp3URL": "https://p.scdn.co/mp3-preview/a4ab4d88620980f237bed06dda97f9fd682ff26c?cid=ba4466e60cda496b81d0a3f3ef98fa70"
-                    },
-                    {
-                        "name": "Stander",
-                        "img": "https://i.scdn.co/image/af5054b7379aa8678ecf0567382e2522a36dbbad",
-                        "mp3URL": "https://p.scdn.co/mp3-preview/14918547017418c23259f6e0d6b48fb0dd159807?cid=ba4466e60cda496b81d0a3f3ef98fa70"
-                    },
-                    {
-                        "name": "Grownup",
-                        "img": "https://i.scdn.co/image/af5054b7379aa8678ecf0567382e2522a36dbbad",
-                        "mp3URL": "https://p.scdn.co/mp3-preview/873e8e75e1891be21db39c84dccaf4c48e6d5742?cid=ba4466e60cda496b81d0a3f3ef98fa70"
-                    },
-                    {
-                        "name": "Swimming Pool (Dreaming Fool)",
-                        "img": "https://i.scdn.co/image/af5054b7379aa8678ecf0567382e2522a36dbbad",
-                        "mp3URL": "https://p.scdn.co/mp3-preview/763856d089e39c4cdd9d6b1b47e6516c9e2e3a57?cid=ba4466e60cda496b81d0a3f3ef98fa70"
-                    },
-                    {
-                        "name": "Losing Game",
-                        "img": "https://i.scdn.co/image/af5054b7379aa8678ecf0567382e2522a36dbbad",
-                        "mp3URL": "https://p.scdn.co/mp3-preview/9a7360a1a725e69ffe1ba7d2e365be2970d2e1d3?cid=ba4466e60cda496b81d0a3f3ef98fa70"
-                    },
-                    {
-                        "name": "Fish",
-                        "img": "https://i.scdn.co/image/af5054b7379aa8678ecf0567382e2522a36dbbad",
-                        "mp3URL": "https://p.scdn.co/mp3-preview/9c832606e209e8a8033525f22839ac81dc2346f4?cid=ba4466e60cda496b81d0a3f3ef98fa70"
-                    }
-                ]
-            },
-            {
-                "isshow": true,
-                "name": "BP",
-                "date": "2019-07-07 00:20:00",
-                "info": "BP (Daan) aka 99 aka OD \n帥大附中水煎包小老闆 \n微笑殺手白鐵仔\n大安開唱主理人\n\n韻腳穿梭 和平EAST \n走跳地盤 復興SOUTH \n每日凌晨五點磨漿 \nshout out to 金華國中\n \n尊重\npeace",
-                "stage": "山丘",
-                "website": "",
-                "facebook": "",
-                "youtube": "",
-                "image": "http://www.wakeupfestival.com.tw/img/artist/BP.jpg",
-                "duration": 20,
-                "start": "00:20",
-                "end": "00:40",
-                "play_list": [
-                    {
-                        "name": "Farewell, Farewell",
-                        "img": "https://i.scdn.co/image/af5054b7379aa8678ecf0567382e2522a36dbbad",
-                        "mp3URL": "https://p.scdn.co/mp3-preview/e162b8ec67215b24a11757e9f03cc03ea9cf62be?cid=ba4466e60cda496b81d0a3f3ef98fa70"
-                    },
-                    {
-                        "name": "Roadtrip",
-                        "img": "https://i.scdn.co/image/af5054b7379aa8678ecf0567382e2522a36dbbad",
-                        "mp3URL": "https://p.scdn.co/mp3-preview/cdef6b7a0134c4e838cfc14850b54cc4eafab63b?cid=ba4466e60cda496b81d0a3f3ef98fa70"
-                    },
-                    {
-                        "name": "Magic Bus",
-                        "img": "https://i.scdn.co/image/af5054b7379aa8678ecf0567382e2522a36dbbad",
-                        "mp3URL": "https://p.scdn.co/mp3-preview/8679937846dd4a0d9b05fea43226f9ae6151bcc3?cid=ba4466e60cda496b81d0a3f3ef98fa70"
-                    },
-                    {
-                        "name": "Ghost City",
-                        "img": "https://i.scdn.co/image/af5054b7379aa8678ecf0567382e2522a36dbbad",
-                        "mp3URL": "https://p.scdn.co/mp3-preview/a4ab4d88620980f237bed06dda97f9fd682ff26c?cid=ba4466e60cda496b81d0a3f3ef98fa70"
-                    },
-                    {
-                        "name": "Stander",
-                        "img": "https://i.scdn.co/image/af5054b7379aa8678ecf0567382e2522a36dbbad",
-                        "mp3URL": "https://p.scdn.co/mp3-preview/14918547017418c23259f6e0d6b48fb0dd159807?cid=ba4466e60cda496b81d0a3f3ef98fa70"
-                    },
-                    {
-                        "name": "Grownup",
-                        "img": "https://i.scdn.co/image/af5054b7379aa8678ecf0567382e2522a36dbbad",
-                        "mp3URL": "https://p.scdn.co/mp3-preview/873e8e75e1891be21db39c84dccaf4c48e6d5742?cid=ba4466e60cda496b81d0a3f3ef98fa70"
-                    },
-                    {
-                        "name": "Swimming Pool (Dreaming Fool)",
-                        "img": "https://i.scdn.co/image/af5054b7379aa8678ecf0567382e2522a36dbbad",
-                        "mp3URL": "https://p.scdn.co/mp3-preview/763856d089e39c4cdd9d6b1b47e6516c9e2e3a57?cid=ba4466e60cda496b81d0a3f3ef98fa70"
-                    },
-                    {
-                        "name": "Losing Game",
-                        "img": "https://i.scdn.co/image/af5054b7379aa8678ecf0567382e2522a36dbbad",
-                        "mp3URL": "https://p.scdn.co/mp3-preview/9a7360a1a725e69ffe1ba7d2e365be2970d2e1d3?cid=ba4466e60cda496b81d0a3f3ef98fa70"
-                    },
-                    {
-                        "name": "Fish",
-                        "img": "https://i.scdn.co/image/af5054b7379aa8678ecf0567382e2522a36dbbad",
-                        "mp3URL": "https://p.scdn.co/mp3-preview/9c832606e209e8a8033525f22839ac81dc2346f4?cid=ba4466e60cda496b81d0a3f3ef98fa70"
-                    }
-                ]
-            },
-            {
-                "isshow": true,
-                "name": "高浩哲 K-HOW",
-                "date": "2019-07-07 00:40:00",
-                "info": "K-HOW高浩哲 \nRepresent 海底隊 HELI CREW \n來自木柵\n來自世新街音\n2016推出《我要買GTR》被熊仔、sowut、蛋頭等等饒舌歌手爭相remix，在台灣嘻哈圈引發前所未有的remix風潮\n在同年也推出《我姐不是網美》在YouTube上超過十三萬點閱率\n2017年富邦Homie Party被J.sheon選為共同演出對象\n2018年發行 VASA MIXTAPE，推出木柵代表作品《VASA木柵好所在》\n並舉辦首場專場VASA Party 受到嘻哈圈廣大迴響\n入選Stu sis 2018台灣饒舌十大新鮮人\n7月VASA TOUR敬請期待～",
-                "stage": "山丘",
-                "website": "",
-                "facebook": "https://www.facebook.com/kaohaoche1996/",
-                "youtube": "https://www.youtube.com/channel/UCFh7OwlRlWXEY8EyMu64uPg",
-                "image": "http://www.wakeupfestival.com.tw/img/artist/KHOW.jpg",
-                "duration": 20,
-                "start": "00:40",
-                "end": "01:00",
-                "play_list": [
-                    {
-                        "name": "Farewell, Farewell",
-                        "img": "https://i.scdn.co/image/af5054b7379aa8678ecf0567382e2522a36dbbad",
-                        "mp3URL": "https://p.scdn.co/mp3-preview/e162b8ec67215b24a11757e9f03cc03ea9cf62be?cid=ba4466e60cda496b81d0a3f3ef98fa70"
-                    },
-                    {
-                        "name": "Roadtrip",
-                        "img": "https://i.scdn.co/image/af5054b7379aa8678ecf0567382e2522a36dbbad",
-                        "mp3URL": "https://p.scdn.co/mp3-preview/cdef6b7a0134c4e838cfc14850b54cc4eafab63b?cid=ba4466e60cda496b81d0a3f3ef98fa70"
-                    },
-                    {
-                        "name": "Magic Bus",
-                        "img": "https://i.scdn.co/image/af5054b7379aa8678ecf0567382e2522a36dbbad",
-                        "mp3URL": "https://p.scdn.co/mp3-preview/8679937846dd4a0d9b05fea43226f9ae6151bcc3?cid=ba4466e60cda496b81d0a3f3ef98fa70"
-                    },
-                    {
-                        "name": "Ghost City",
-                        "img": "https://i.scdn.co/image/af5054b7379aa8678ecf0567382e2522a36dbbad",
-                        "mp3URL": "https://p.scdn.co/mp3-preview/a4ab4d88620980f237bed06dda97f9fd682ff26c?cid=ba4466e60cda496b81d0a3f3ef98fa70"
-                    },
-                    {
-                        "name": "Stander",
-                        "img": "https://i.scdn.co/image/af5054b7379aa8678ecf0567382e2522a36dbbad",
-                        "mp3URL": "https://p.scdn.co/mp3-preview/14918547017418c23259f6e0d6b48fb0dd159807?cid=ba4466e60cda496b81d0a3f3ef98fa70"
-                    },
-                    {
-                        "name": "Grownup",
-                        "img": "https://i.scdn.co/image/af5054b7379aa8678ecf0567382e2522a36dbbad",
-                        "mp3URL": "https://p.scdn.co/mp3-preview/873e8e75e1891be21db39c84dccaf4c48e6d5742?cid=ba4466e60cda496b81d0a3f3ef98fa70"
-                    },
-                    {
-                        "name": "Swimming Pool (Dreaming Fool)",
-                        "img": "https://i.scdn.co/image/af5054b7379aa8678ecf0567382e2522a36dbbad",
-                        "mp3URL": "https://p.scdn.co/mp3-preview/763856d089e39c4cdd9d6b1b47e6516c9e2e3a57?cid=ba4466e60cda496b81d0a3f3ef98fa70"
-                    },
-                    {
-                        "name": "Losing Game",
-                        "img": "https://i.scdn.co/image/af5054b7379aa8678ecf0567382e2522a36dbbad",
-                        "mp3URL": "https://p.scdn.co/mp3-preview/9a7360a1a725e69ffe1ba7d2e365be2970d2e1d3?cid=ba4466e60cda496b81d0a3f3ef98fa70"
-                    },
-                    {
-                        "name": "Fish",
-                        "img": "https://i.scdn.co/image/af5054b7379aa8678ecf0567382e2522a36dbbad",
-                        "mp3URL": "https://p.scdn.co/mp3-preview/9c832606e209e8a8033525f22839ac81dc2346f4?cid=ba4466e60cda496b81d0a3f3ef98fa70"
-                    }
-                ]
-            },
-            {
-                "isshow": true,
-                "name": " ＃me2oo",
-                "date": "2019-07-07 01:00:00",
-                "info": "你好 我是#me2oo 33歲 身高174 體重90 巨蟹座O型，目前在展演空間工作 ，喜歡打籃球慢速壘球運動聽音樂，也喜歡跟異性看Netflix聊天談心，我被你的美麗震撼到，想要和你編織一段美好的回憶，你就能理解 ，我有何不同，等待一段機緣就在此刻開始",
-                "stage": "山丘",
-                "website": "",
-                "facebook": "",
-                "youtube": "",
-                "image": "http://www.wakeupfestival.com.tw/img/artist/me2oo.jpg",
-                "duration": 20,
-                "start": "01:00",
-                "end": "01:20",
-                "play_list": [
-                    {
-                        "name": "Farewell, Farewell",
-                        "img": "https://i.scdn.co/image/af5054b7379aa8678ecf0567382e2522a36dbbad",
-                        "mp3URL": "https://p.scdn.co/mp3-preview/e162b8ec67215b24a11757e9f03cc03ea9cf62be?cid=ba4466e60cda496b81d0a3f3ef98fa70"
-                    },
-                    {
-                        "name": "Roadtrip",
-                        "img": "https://i.scdn.co/image/af5054b7379aa8678ecf0567382e2522a36dbbad",
-                        "mp3URL": "https://p.scdn.co/mp3-preview/cdef6b7a0134c4e838cfc14850b54cc4eafab63b?cid=ba4466e60cda496b81d0a3f3ef98fa70"
-                    },
-                    {
-                        "name": "Magic Bus",
-                        "img": "https://i.scdn.co/image/af5054b7379aa8678ecf0567382e2522a36dbbad",
-                        "mp3URL": "https://p.scdn.co/mp3-preview/8679937846dd4a0d9b05fea43226f9ae6151bcc3?cid=ba4466e60cda496b81d0a3f3ef98fa70"
-                    },
-                    {
-                        "name": "Ghost City",
-                        "img": "https://i.scdn.co/image/af5054b7379aa8678ecf0567382e2522a36dbbad",
-                        "mp3URL": "https://p.scdn.co/mp3-preview/a4ab4d88620980f237bed06dda97f9fd682ff26c?cid=ba4466e60cda496b81d0a3f3ef98fa70"
-                    },
-                    {
-                        "name": "Stander",
-                        "img": "https://i.scdn.co/image/af5054b7379aa8678ecf0567382e2522a36dbbad",
-                        "mp3URL": "https://p.scdn.co/mp3-preview/14918547017418c23259f6e0d6b48fb0dd159807?cid=ba4466e60cda496b81d0a3f3ef98fa70"
-                    },
-                    {
-                        "name": "Grownup",
-                        "img": "https://i.scdn.co/image/af5054b7379aa8678ecf0567382e2522a36dbbad",
-                        "mp3URL": "https://p.scdn.co/mp3-preview/873e8e75e1891be21db39c84dccaf4c48e6d5742?cid=ba4466e60cda496b81d0a3f3ef98fa70"
-                    },
-                    {
-                        "name": "Swimming Pool (Dreaming Fool)",
-                        "img": "https://i.scdn.co/image/af5054b7379aa8678ecf0567382e2522a36dbbad",
-                        "mp3URL": "https://p.scdn.co/mp3-preview/763856d089e39c4cdd9d6b1b47e6516c9e2e3a57?cid=ba4466e60cda496b81d0a3f3ef98fa70"
-                    },
-                    {
-                        "name": "Losing Game",
-                        "img": "https://i.scdn.co/image/af5054b7379aa8678ecf0567382e2522a36dbbad",
-                        "mp3URL": "https://p.scdn.co/mp3-preview/9a7360a1a725e69ffe1ba7d2e365be2970d2e1d3?cid=ba4466e60cda496b81d0a3f3ef98fa70"
-                    },
-                    {
-                        "name": "Fish",
-                        "img": "https://i.scdn.co/image/af5054b7379aa8678ecf0567382e2522a36dbbad",
-                        "mp3URL": "https://p.scdn.co/mp3-preview/9c832606e209e8a8033525f22839ac81dc2346f4?cid=ba4466e60cda496b81d0a3f3ef98fa70"
-                    }
-                ]
-            },
-            {
-                "isshow": true,
-                "name": "Mr.Troll",
-                "date": "2019-07-07 01:20:00",
-                "info": "Mr.Troll，本名劉修齊，來自嘉義最大管的團體「美秀集團」，誓言恢復暗茅部落的榮耀！專長是想韻腳，以及在free style時模仿小老虎。夢想是靠饒舌致富，最大的夢想是去歐洲旅行一個月。",
-                "stage": "山丘",
-                "website": "",
-                "facebook": "",
-                "youtube": "",
-                "image": "http://www.wakeupfestival.com.tw/img/artist/MrTroll.jpg",
-                "duration": 20,
-                "start": "01:20",
-                "end": "01:40",
-                "play_list": [
-                    {
-                        "name": "Farewell, Farewell",
-                        "img": "https://i.scdn.co/image/af5054b7379aa8678ecf0567382e2522a36dbbad",
-                        "mp3URL": "https://p.scdn.co/mp3-preview/e162b8ec67215b24a11757e9f03cc03ea9cf62be?cid=ba4466e60cda496b81d0a3f3ef98fa70"
-                    },
-                    {
-                        "name": "Roadtrip",
-                        "img": "https://i.scdn.co/image/af5054b7379aa8678ecf0567382e2522a36dbbad",
-                        "mp3URL": "https://p.scdn.co/mp3-preview/cdef6b7a0134c4e838cfc14850b54cc4eafab63b?cid=ba4466e60cda496b81d0a3f3ef98fa70"
-                    },
-                    {
-                        "name": "Magic Bus",
-                        "img": "https://i.scdn.co/image/af5054b7379aa8678ecf0567382e2522a36dbbad",
-                        "mp3URL": "https://p.scdn.co/mp3-preview/8679937846dd4a0d9b05fea43226f9ae6151bcc3?cid=ba4466e60cda496b81d0a3f3ef98fa70"
-                    },
-                    {
-                        "name": "Ghost City",
-                        "img": "https://i.scdn.co/image/af5054b7379aa8678ecf0567382e2522a36dbbad",
-                        "mp3URL": "https://p.scdn.co/mp3-preview/a4ab4d88620980f237bed06dda97f9fd682ff26c?cid=ba4466e60cda496b81d0a3f3ef98fa70"
-                    },
-                    {
-                        "name": "Stander",
-                        "img": "https://i.scdn.co/image/af5054b7379aa8678ecf0567382e2522a36dbbad",
-                        "mp3URL": "https://p.scdn.co/mp3-preview/14918547017418c23259f6e0d6b48fb0dd159807?cid=ba4466e60cda496b81d0a3f3ef98fa70"
-                    },
-                    {
-                        "name": "Grownup",
-                        "img": "https://i.scdn.co/image/af5054b7379aa8678ecf0567382e2522a36dbbad",
-                        "mp3URL": "https://p.scdn.co/mp3-preview/873e8e75e1891be21db39c84dccaf4c48e6d5742?cid=ba4466e60cda496b81d0a3f3ef98fa70"
-                    },
-                    {
-                        "name": "Swimming Pool (Dreaming Fool)",
-                        "img": "https://i.scdn.co/image/af5054b7379aa8678ecf0567382e2522a36dbbad",
-                        "mp3URL": "https://p.scdn.co/mp3-preview/763856d089e39c4cdd9d6b1b47e6516c9e2e3a57?cid=ba4466e60cda496b81d0a3f3ef98fa70"
-                    },
-                    {
-                        "name": "Losing Game",
-                        "img": "https://i.scdn.co/image/af5054b7379aa8678ecf0567382e2522a36dbbad",
-                        "mp3URL": "https://p.scdn.co/mp3-preview/9a7360a1a725e69ffe1ba7d2e365be2970d2e1d3?cid=ba4466e60cda496b81d0a3f3ef98fa70"
-                    },
-                    {
-                        "name": "Fish",
-                        "img": "https://i.scdn.co/image/af5054b7379aa8678ecf0567382e2522a36dbbad",
-                        "mp3URL": "https://p.scdn.co/mp3-preview/9c832606e209e8a8033525f22839ac81dc2346f4?cid=ba4466e60cda496b81d0a3f3ef98fa70"
-                    }
-                ]
-            },
-            {
-                "isshow": true,
-                "name": "\"23\"",
-                "date": "2019-07-07 01:40:00",
-                "info": "在創作中湧入了大量的吉他、呢喃的饒舌及高亢的吶喊，\n充分展現了現代文化融合的衝突感，歌詞也傳達出這世代的壓抑、徬徨及無助，\n雖然是饒舌的曲子，但卻無庸置疑地擁有龐克搖滾的精神。",
-                "stage": "山丘",
-                "website": "",
-                "facebook": "https://www.facebook.com/Marrrz23/",
-                "youtube": "https://www.youtube.com/channel/UCtN4KlUZKixA-hJOdZXGAHQ",
-                "image": "http://www.wakeupfestival.com.tw/img/artist/Marz23.jpg",
-                "duration": 20,
-                "start": "01:40",
-                "end": "02:00",
+                "image": "http://www.wakeupfestival.com.tw/img/artist/Bullet.jpg",
+                "duration": 40,
+                "start": "14:40",
+                "end": "15:20",
                 "play_list": [
                     {
                         "name": "Farewell, Farewell",
@@ -8731,9 +8352,399 @@
                 "facebook": "",
                 "youtube": "",
                 "image": "",
+                "duration": 40,
+                "start": "15:20",
+                "end": "16:00",
+                "play_list": [
+                    
+                ]
+            },
+            {
+                "isshow": true,
+                "name": "陳玠安",
+                "date": "2019-07-07 16:00:00",
+                "info": "受到英國搖滾樂影響，高中開始聆聽國內外獨立搖滾\n曾任《gigs搖滾誌》與《BARK音痴路》主編與多屆金音創作獎評審\n編寫《歡迎光臨風和日麗唱片行》等文集\n近期參與安溥「煉雲」演唱會側寫工作\n現職藝文媒體專欄作者、北藝大講師",
+                "stage": "火雞",
+                "website": "",
+                "facebook": "",
+                "youtube": "",
+                "image": "http://www.wakeupfestival.com.tw/img/artist/Chen.jpg",
+                "duration": 40,
+                "start": "16:00",
+                "end": "16:40",
+                "play_list": [
+                    {
+                        "name": "Farewell, Farewell",
+                        "img": "https://i.scdn.co/image/af5054b7379aa8678ecf0567382e2522a36dbbad",
+                        "mp3URL": "https://p.scdn.co/mp3-preview/e162b8ec67215b24a11757e9f03cc03ea9cf62be?cid=ba4466e60cda496b81d0a3f3ef98fa70"
+                    },
+                    {
+                        "name": "Roadtrip",
+                        "img": "https://i.scdn.co/image/af5054b7379aa8678ecf0567382e2522a36dbbad",
+                        "mp3URL": "https://p.scdn.co/mp3-preview/cdef6b7a0134c4e838cfc14850b54cc4eafab63b?cid=ba4466e60cda496b81d0a3f3ef98fa70"
+                    },
+                    {
+                        "name": "Magic Bus",
+                        "img": "https://i.scdn.co/image/af5054b7379aa8678ecf0567382e2522a36dbbad",
+                        "mp3URL": "https://p.scdn.co/mp3-preview/8679937846dd4a0d9b05fea43226f9ae6151bcc3?cid=ba4466e60cda496b81d0a3f3ef98fa70"
+                    },
+                    {
+                        "name": "Ghost City",
+                        "img": "https://i.scdn.co/image/af5054b7379aa8678ecf0567382e2522a36dbbad",
+                        "mp3URL": "https://p.scdn.co/mp3-preview/a4ab4d88620980f237bed06dda97f9fd682ff26c?cid=ba4466e60cda496b81d0a3f3ef98fa70"
+                    },
+                    {
+                        "name": "Stander",
+                        "img": "https://i.scdn.co/image/af5054b7379aa8678ecf0567382e2522a36dbbad",
+                        "mp3URL": "https://p.scdn.co/mp3-preview/14918547017418c23259f6e0d6b48fb0dd159807?cid=ba4466e60cda496b81d0a3f3ef98fa70"
+                    },
+                    {
+                        "name": "Grownup",
+                        "img": "https://i.scdn.co/image/af5054b7379aa8678ecf0567382e2522a36dbbad",
+                        "mp3URL": "https://p.scdn.co/mp3-preview/873e8e75e1891be21db39c84dccaf4c48e6d5742?cid=ba4466e60cda496b81d0a3f3ef98fa70"
+                    },
+                    {
+                        "name": "Swimming Pool (Dreaming Fool)",
+                        "img": "https://i.scdn.co/image/af5054b7379aa8678ecf0567382e2522a36dbbad",
+                        "mp3URL": "https://p.scdn.co/mp3-preview/763856d089e39c4cdd9d6b1b47e6516c9e2e3a57?cid=ba4466e60cda496b81d0a3f3ef98fa70"
+                    },
+                    {
+                        "name": "Losing Game",
+                        "img": "https://i.scdn.co/image/af5054b7379aa8678ecf0567382e2522a36dbbad",
+                        "mp3URL": "https://p.scdn.co/mp3-preview/9a7360a1a725e69ffe1ba7d2e365be2970d2e1d3?cid=ba4466e60cda496b81d0a3f3ef98fa70"
+                    },
+                    {
+                        "name": "Fish",
+                        "img": "https://i.scdn.co/image/af5054b7379aa8678ecf0567382e2522a36dbbad",
+                        "mp3URL": "https://p.scdn.co/mp3-preview/9c832606e209e8a8033525f22839ac81dc2346f4?cid=ba4466e60cda496b81d0a3f3ef98fa70"
+                    }
+                ]
+            },
+            {
+                "isshow": false,
+                "name": "",
+                "date": "",
+                "info": "",
+                "stage": "",
+                "website": "",
+                "facebook": "",
+                "youtube": "",
+                "image": "",
+                "duration": 40,
+                "start": "16:40",
+                "end": "17:20",
+                "play_list": [
+                    
+                ]
+            },
+            {
+                "isshow": true,
+                "name": "愛吹倫 a.k.a. DJ @llenblow",
+                "date": "2019-07-07 17:20:00",
+                "info": "人稱Reggae教父，前敦南誠品音樂館店員，為台灣第一個Dub團Taimaica Soundsystem(台買加環繞音效)創始團員也是Reggae樂團盪在空中前任bass手，目前於台灣首組Afrobeat樂團「島國未來主義」從事老本行，並以無用兄弟會之名推廣Reggae與Hip Hop音樂，另不定期舉辦主題派對，同時也是音樂寫手，執筆過男人幫雜誌、Sony唱片側標、映像誌與破報(已停刊)等等，目前為Red Bull之音樂學院網站編譯與KKBOX專欄作家。2005年從台中移居台北之後開啟了DJ之路，風格以Reggae為主，曾受邀上山下海在台灣各地放送牙買加之聲，無論是Ska、Dub或Dancehall皆可完整呈現。2015年起身兼Hip Hop DJ，成為台灣少數的Reggae/Hip Hop兩棲DJ，現於台北知名酒吧\"榕\"(星期二)、Double Check(星期三)、台中洞穴(星期四)以及台北中山雅樂軒酒店17樓Wxyz(星期六)擔任駐場DJ，主推Hip Hop。2017年，他開始積極拓展海外市場，並於泰國的Banpong以及日本的大阪留下足跡，接著，以從大阪帶回來的一對唱盤，展開了黑膠DJ的音樂生涯。",
+                "stage": "火雞",
+                "website": "",
+                "facebook": "",
+                "youtube": "https://www.youtube.com/user/TakerLin",
+                "image": "http://www.wakeupfestival.com.tw/img/artist/llenblow.jpg",
+                "duration": 40,
+                "start": "17:20",
+                "end": "18:00",
+                "play_list": [
+                    {
+                        "name": "Farewell, Farewell",
+                        "img": "https://i.scdn.co/image/af5054b7379aa8678ecf0567382e2522a36dbbad",
+                        "mp3URL": "https://p.scdn.co/mp3-preview/e162b8ec67215b24a11757e9f03cc03ea9cf62be?cid=ba4466e60cda496b81d0a3f3ef98fa70"
+                    },
+                    {
+                        "name": "Roadtrip",
+                        "img": "https://i.scdn.co/image/af5054b7379aa8678ecf0567382e2522a36dbbad",
+                        "mp3URL": "https://p.scdn.co/mp3-preview/cdef6b7a0134c4e838cfc14850b54cc4eafab63b?cid=ba4466e60cda496b81d0a3f3ef98fa70"
+                    },
+                    {
+                        "name": "Magic Bus",
+                        "img": "https://i.scdn.co/image/af5054b7379aa8678ecf0567382e2522a36dbbad",
+                        "mp3URL": "https://p.scdn.co/mp3-preview/8679937846dd4a0d9b05fea43226f9ae6151bcc3?cid=ba4466e60cda496b81d0a3f3ef98fa70"
+                    },
+                    {
+                        "name": "Ghost City",
+                        "img": "https://i.scdn.co/image/af5054b7379aa8678ecf0567382e2522a36dbbad",
+                        "mp3URL": "https://p.scdn.co/mp3-preview/a4ab4d88620980f237bed06dda97f9fd682ff26c?cid=ba4466e60cda496b81d0a3f3ef98fa70"
+                    },
+                    {
+                        "name": "Stander",
+                        "img": "https://i.scdn.co/image/af5054b7379aa8678ecf0567382e2522a36dbbad",
+                        "mp3URL": "https://p.scdn.co/mp3-preview/14918547017418c23259f6e0d6b48fb0dd159807?cid=ba4466e60cda496b81d0a3f3ef98fa70"
+                    },
+                    {
+                        "name": "Grownup",
+                        "img": "https://i.scdn.co/image/af5054b7379aa8678ecf0567382e2522a36dbbad",
+                        "mp3URL": "https://p.scdn.co/mp3-preview/873e8e75e1891be21db39c84dccaf4c48e6d5742?cid=ba4466e60cda496b81d0a3f3ef98fa70"
+                    },
+                    {
+                        "name": "Swimming Pool (Dreaming Fool)",
+                        "img": "https://i.scdn.co/image/af5054b7379aa8678ecf0567382e2522a36dbbad",
+                        "mp3URL": "https://p.scdn.co/mp3-preview/763856d089e39c4cdd9d6b1b47e6516c9e2e3a57?cid=ba4466e60cda496b81d0a3f3ef98fa70"
+                    },
+                    {
+                        "name": "Losing Game",
+                        "img": "https://i.scdn.co/image/af5054b7379aa8678ecf0567382e2522a36dbbad",
+                        "mp3URL": "https://p.scdn.co/mp3-preview/9a7360a1a725e69ffe1ba7d2e365be2970d2e1d3?cid=ba4466e60cda496b81d0a3f3ef98fa70"
+                    },
+                    {
+                        "name": "Fish",
+                        "img": "https://i.scdn.co/image/af5054b7379aa8678ecf0567382e2522a36dbbad",
+                        "mp3URL": "https://p.scdn.co/mp3-preview/9c832606e209e8a8033525f22839ac81dc2346f4?cid=ba4466e60cda496b81d0a3f3ef98fa70"
+                    }
+                ]
+            },
+            {
+                "isshow": false,
+                "name": "",
+                "date": "",
+                "info": "",
+                "stage": "",
+                "website": "",
+                "facebook": "",
+                "youtube": "",
+                "image": "",
+                "duration": 40,
+                "start": "18:00",
+                "end": "18:40",
+                "play_list": [
+                    
+                ]
+            },
+            {
+                "isshow": true,
+                "name": "林貓王",
+                "date": "2019-07-07 18:40:00",
+                "info": "曾任兩屆金音創作獎評審／音樂推動者大獎評審，以及HINOTER映樂誌主編，並為KKBOX音樂誌／香港號外雜誌／小日子／StreetVoice音樂達人等撰文，現任amba DJ，經營部落格【音樂是這世界上最美好的事】，獲選部落客百傑文學藝術類十強達人，與三屆全球華文部落格大獎決選入圍。目前過著窮苦快樂的Soho生活。",
+                "stage": "火雞",
+                "website": "",
+                "facebook": "",
+                "youtube": "",
+                "image": "http://www.wakeupfestival.com.tw/img/artist/elv51.jpg",
+                "duration": 40,
+                "start": "18:40",
+                "end": "19:20",
+                "play_list": [
+                    {
+                        "name": "Farewell, Farewell",
+                        "img": "https://i.scdn.co/image/af5054b7379aa8678ecf0567382e2522a36dbbad",
+                        "mp3URL": "https://p.scdn.co/mp3-preview/e162b8ec67215b24a11757e9f03cc03ea9cf62be?cid=ba4466e60cda496b81d0a3f3ef98fa70"
+                    },
+                    {
+                        "name": "Roadtrip",
+                        "img": "https://i.scdn.co/image/af5054b7379aa8678ecf0567382e2522a36dbbad",
+                        "mp3URL": "https://p.scdn.co/mp3-preview/cdef6b7a0134c4e838cfc14850b54cc4eafab63b?cid=ba4466e60cda496b81d0a3f3ef98fa70"
+                    },
+                    {
+                        "name": "Magic Bus",
+                        "img": "https://i.scdn.co/image/af5054b7379aa8678ecf0567382e2522a36dbbad",
+                        "mp3URL": "https://p.scdn.co/mp3-preview/8679937846dd4a0d9b05fea43226f9ae6151bcc3?cid=ba4466e60cda496b81d0a3f3ef98fa70"
+                    },
+                    {
+                        "name": "Ghost City",
+                        "img": "https://i.scdn.co/image/af5054b7379aa8678ecf0567382e2522a36dbbad",
+                        "mp3URL": "https://p.scdn.co/mp3-preview/a4ab4d88620980f237bed06dda97f9fd682ff26c?cid=ba4466e60cda496b81d0a3f3ef98fa70"
+                    },
+                    {
+                        "name": "Stander",
+                        "img": "https://i.scdn.co/image/af5054b7379aa8678ecf0567382e2522a36dbbad",
+                        "mp3URL": "https://p.scdn.co/mp3-preview/14918547017418c23259f6e0d6b48fb0dd159807?cid=ba4466e60cda496b81d0a3f3ef98fa70"
+                    },
+                    {
+                        "name": "Grownup",
+                        "img": "https://i.scdn.co/image/af5054b7379aa8678ecf0567382e2522a36dbbad",
+                        "mp3URL": "https://p.scdn.co/mp3-preview/873e8e75e1891be21db39c84dccaf4c48e6d5742?cid=ba4466e60cda496b81d0a3f3ef98fa70"
+                    },
+                    {
+                        "name": "Swimming Pool (Dreaming Fool)",
+                        "img": "https://i.scdn.co/image/af5054b7379aa8678ecf0567382e2522a36dbbad",
+                        "mp3URL": "https://p.scdn.co/mp3-preview/763856d089e39c4cdd9d6b1b47e6516c9e2e3a57?cid=ba4466e60cda496b81d0a3f3ef98fa70"
+                    },
+                    {
+                        "name": "Losing Game",
+                        "img": "https://i.scdn.co/image/af5054b7379aa8678ecf0567382e2522a36dbbad",
+                        "mp3URL": "https://p.scdn.co/mp3-preview/9a7360a1a725e69ffe1ba7d2e365be2970d2e1d3?cid=ba4466e60cda496b81d0a3f3ef98fa70"
+                    },
+                    {
+                        "name": "Fish",
+                        "img": "https://i.scdn.co/image/af5054b7379aa8678ecf0567382e2522a36dbbad",
+                        "mp3URL": "https://p.scdn.co/mp3-preview/9c832606e209e8a8033525f22839ac81dc2346f4?cid=ba4466e60cda496b81d0a3f3ef98fa70"
+                    }
+                ]
+            },
+            {
+                "isshow": false,
+                "name": "",
+                "date": "",
+                "info": "",
+                "stage": "",
+                "website": "",
+                "facebook": "",
+                "youtube": "",
+                "image": "",
+                "duration": 40,
+                "start": "19:20",
+                "end": "20:00",
+                "play_list": [
+                    
+                ]
+            },
+            {
+                "isshow": true,
+                "name": "Tina 那那大師",
+                "date": "2019-07-07 20:00:00",
+                "info": "以鬼吼鬼叫在網紅界闖蕩\n眾多天后歌曲成為惡搞對象\n被網友封為『療癒歌手』",
+                "stage": "火雞",
+                "website": "",
+                "facebook": "https://www.facebook.com/tinanamaster/",
+                "youtube": "https://www.youtube.com/channel/UC4iyJImwP063XHFhjHIT7SA",
+                "image": "http://www.wakeupfestival.com.tw/img/artist/tinanamaster.jpg",
+                "duration": 40,
+                "start": "20:00",
+                "end": "20:40",
+                "play_list": [
+                    {
+                        "name": "Farewell, Farewell",
+                        "img": "https://i.scdn.co/image/af5054b7379aa8678ecf0567382e2522a36dbbad",
+                        "mp3URL": "https://p.scdn.co/mp3-preview/e162b8ec67215b24a11757e9f03cc03ea9cf62be?cid=ba4466e60cda496b81d0a3f3ef98fa70"
+                    },
+                    {
+                        "name": "Roadtrip",
+                        "img": "https://i.scdn.co/image/af5054b7379aa8678ecf0567382e2522a36dbbad",
+                        "mp3URL": "https://p.scdn.co/mp3-preview/cdef6b7a0134c4e838cfc14850b54cc4eafab63b?cid=ba4466e60cda496b81d0a3f3ef98fa70"
+                    },
+                    {
+                        "name": "Magic Bus",
+                        "img": "https://i.scdn.co/image/af5054b7379aa8678ecf0567382e2522a36dbbad",
+                        "mp3URL": "https://p.scdn.co/mp3-preview/8679937846dd4a0d9b05fea43226f9ae6151bcc3?cid=ba4466e60cda496b81d0a3f3ef98fa70"
+                    },
+                    {
+                        "name": "Ghost City",
+                        "img": "https://i.scdn.co/image/af5054b7379aa8678ecf0567382e2522a36dbbad",
+                        "mp3URL": "https://p.scdn.co/mp3-preview/a4ab4d88620980f237bed06dda97f9fd682ff26c?cid=ba4466e60cda496b81d0a3f3ef98fa70"
+                    },
+                    {
+                        "name": "Stander",
+                        "img": "https://i.scdn.co/image/af5054b7379aa8678ecf0567382e2522a36dbbad",
+                        "mp3URL": "https://p.scdn.co/mp3-preview/14918547017418c23259f6e0d6b48fb0dd159807?cid=ba4466e60cda496b81d0a3f3ef98fa70"
+                    },
+                    {
+                        "name": "Grownup",
+                        "img": "https://i.scdn.co/image/af5054b7379aa8678ecf0567382e2522a36dbbad",
+                        "mp3URL": "https://p.scdn.co/mp3-preview/873e8e75e1891be21db39c84dccaf4c48e6d5742?cid=ba4466e60cda496b81d0a3f3ef98fa70"
+                    },
+                    {
+                        "name": "Swimming Pool (Dreaming Fool)",
+                        "img": "https://i.scdn.co/image/af5054b7379aa8678ecf0567382e2522a36dbbad",
+                        "mp3URL": "https://p.scdn.co/mp3-preview/763856d089e39c4cdd9d6b1b47e6516c9e2e3a57?cid=ba4466e60cda496b81d0a3f3ef98fa70"
+                    },
+                    {
+                        "name": "Losing Game",
+                        "img": "https://i.scdn.co/image/af5054b7379aa8678ecf0567382e2522a36dbbad",
+                        "mp3URL": "https://p.scdn.co/mp3-preview/9a7360a1a725e69ffe1ba7d2e365be2970d2e1d3?cid=ba4466e60cda496b81d0a3f3ef98fa70"
+                    },
+                    {
+                        "name": "Fish",
+                        "img": "https://i.scdn.co/image/af5054b7379aa8678ecf0567382e2522a36dbbad",
+                        "mp3URL": "https://p.scdn.co/mp3-preview/9c832606e209e8a8033525f22839ac81dc2346f4?cid=ba4466e60cda496b81d0a3f3ef98fa70"
+                    }
+                ]
+            },
+            {
+                "isshow": false,
+                "name": "",
+                "date": "",
+                "info": "",
+                "stage": "",
+                "website": "",
+                "facebook": "",
+                "youtube": "",
+                "image": "",
+                "duration": 40,
+                "start": "20:40",
+                "end": "21:20",
+                "play_list": [
+                    
+                ]
+            },
+            {
+                "isshow": true,
+                "name": "合鳥戰隊",
+                "date": "2019-07-07 21:20:00",
+                "info": "來自台灣北中南樂迷的集團，平常嗜好就是跑遍全台吃吃喝喝看表演順便起爭議，曾經一度解散，今日為了WAKE UP再次重組，一場好的演出有三大要素：音樂、酒精、朋友，音樂和酒精我們幫你準備好了，帶你朋友一起來看表演吧！",
+                "stage": "火雞",
+                "website": "",
+                "facebook": "",
+                "youtube": "",
+                "image": "http://www.wakeupfestival.com.tw/img/artist/birdteam.jpg",
+                "duration": 40,
+                "start": "21:20",
+                "end": "22:00",
+                "play_list": [
+                    {
+                        "name": "Farewell, Farewell",
+                        "img": "https://i.scdn.co/image/af5054b7379aa8678ecf0567382e2522a36dbbad",
+                        "mp3URL": "https://p.scdn.co/mp3-preview/e162b8ec67215b24a11757e9f03cc03ea9cf62be?cid=ba4466e60cda496b81d0a3f3ef98fa70"
+                    },
+                    {
+                        "name": "Roadtrip",
+                        "img": "https://i.scdn.co/image/af5054b7379aa8678ecf0567382e2522a36dbbad",
+                        "mp3URL": "https://p.scdn.co/mp3-preview/cdef6b7a0134c4e838cfc14850b54cc4eafab63b?cid=ba4466e60cda496b81d0a3f3ef98fa70"
+                    },
+                    {
+                        "name": "Magic Bus",
+                        "img": "https://i.scdn.co/image/af5054b7379aa8678ecf0567382e2522a36dbbad",
+                        "mp3URL": "https://p.scdn.co/mp3-preview/8679937846dd4a0d9b05fea43226f9ae6151bcc3?cid=ba4466e60cda496b81d0a3f3ef98fa70"
+                    },
+                    {
+                        "name": "Ghost City",
+                        "img": "https://i.scdn.co/image/af5054b7379aa8678ecf0567382e2522a36dbbad",
+                        "mp3URL": "https://p.scdn.co/mp3-preview/a4ab4d88620980f237bed06dda97f9fd682ff26c?cid=ba4466e60cda496b81d0a3f3ef98fa70"
+                    },
+                    {
+                        "name": "Stander",
+                        "img": "https://i.scdn.co/image/af5054b7379aa8678ecf0567382e2522a36dbbad",
+                        "mp3URL": "https://p.scdn.co/mp3-preview/14918547017418c23259f6e0d6b48fb0dd159807?cid=ba4466e60cda496b81d0a3f3ef98fa70"
+                    },
+                    {
+                        "name": "Grownup",
+                        "img": "https://i.scdn.co/image/af5054b7379aa8678ecf0567382e2522a36dbbad",
+                        "mp3URL": "https://p.scdn.co/mp3-preview/873e8e75e1891be21db39c84dccaf4c48e6d5742?cid=ba4466e60cda496b81d0a3f3ef98fa70"
+                    },
+                    {
+                        "name": "Swimming Pool (Dreaming Fool)",
+                        "img": "https://i.scdn.co/image/af5054b7379aa8678ecf0567382e2522a36dbbad",
+                        "mp3URL": "https://p.scdn.co/mp3-preview/763856d089e39c4cdd9d6b1b47e6516c9e2e3a57?cid=ba4466e60cda496b81d0a3f3ef98fa70"
+                    },
+                    {
+                        "name": "Losing Game",
+                        "img": "https://i.scdn.co/image/af5054b7379aa8678ecf0567382e2522a36dbbad",
+                        "mp3URL": "https://p.scdn.co/mp3-preview/9a7360a1a725e69ffe1ba7d2e365be2970d2e1d3?cid=ba4466e60cda496b81d0a3f3ef98fa70"
+                    },
+                    {
+                        "name": "Fish",
+                        "img": "https://i.scdn.co/image/af5054b7379aa8678ecf0567382e2522a36dbbad",
+                        "mp3URL": "https://p.scdn.co/mp3-preview/9c832606e209e8a8033525f22839ac81dc2346f4?cid=ba4466e60cda496b81d0a3f3ef98fa70"
+                    }
+                ]
+            },
+            {
+                "isshow": false,
+                "name": "test",
+                "date": "",
+                "info": "",
+                "stage": "",
+                "website": "",
+                "facebook": "",
+                "youtube": "",
+                "image": "",
                 "duration": 60,
-                "start": "02:00",
-                "end": "03:00",
+                "start": "22:00",
+                "end": "23:00",
                 "play_list": [
                     
                 ]
