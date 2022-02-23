@@ -128,48 +128,46 @@
             "title": "爛泥"
         }
     ],
-    "ffmpeg": {
-        "data": [
-            {
-                "title": "CF",
-                "info": [
-                    {
-                        "desc": "上",
-                        "image": "xxx",
-                        "video": "https://league2eb.me/wuf/1.mp4"
-                    },
-                    {
-                        "desc": "中",
-                        "image": "xxx",
-                        "video": "https://league2eb.me/wuf/2.mp4"
-                    },
-                    {
-                        "desc": "下",
-                        "image": "xxx",
-                        "video": "https://league2eb.me/wuf/3.mp4"
-                    }
-                ]
-            },
-            {
-                "title": "回顧",
-                "info": [
-                    {
-                        "desc": "2015",
-                        "image": "xxx",
-                        "video": "https://league2eb.me/wuf/4.mp4"
-                    },
-                    {
-                        "desc": "2016",
-                        "image": "xxx",
-                        "video": "https://league2eb.me/wuf/5.mp4"
-                    },
-                    {
-                        "desc": "2017",
-                        "image": "xxx",
-                        "video": "https://league2eb.me/wuf/6.mp4"
-                    }
-                ]
-            }
-        ]
-    }
+    "ffmpeg": [
+        {
+            "title": "CF",
+            "info": [
+                {
+                    "desc": "上",
+                    "image": "xxx",
+                    "video": "https://league2eb.me/wuf/1.mp4"
+                },
+                {
+                    "desc": "中",
+                    "image": "xxx",
+                    "video": "https://league2eb.me/wuf/2.mp4"
+                },
+                {
+                    "desc": "下",
+                    "image": "xxx",
+                    "video": "https://league2eb.me/wuf/3.mp4"
+                }
+            ]
+        },
+        {
+            "title": "回顧",
+            "info": [
+                {
+                    "desc": "2015",
+                    "image": "xxx",
+                    "video": "https://league2eb.me/wuf/4.mp4"
+                },
+                {
+                    "desc": "2016",
+                    "image": "xxx",
+                    "video": "https://league2eb.me/wuf/5.mp4"
+                },
+                {
+                    "desc": "2017",
+                    "image": "xxx",
+                    "video": "https://league2eb.me/wuf/6.mp4"
+                }
+            ]
+        }
+    ]
 }
