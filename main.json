@@ -65,22 +65,42 @@
                     "title": "上",
                     "image": "https://s2.loli.net/2022/02/25/2iDrhskzCRovPSl.png",
                     "video": "https://league2eb.me/wuf/1.mp4",
-                    "photographer":"https://s2.loli.net/2022/03/06/F7gzi3rbocVfeaX.png",
+                    "photographer": [
+                        {
+                            "image": "https://s2.loli.net/2022/03/06/4pGY6jV3AxdStgh.png"
+                        }
+                    ],
                     "code": "IO-XVF01"
                 },
                 {
                     "title": "中",
                     "image": "https://s2.loli.net/2022/02/25/FG7kz8Lwx9Hi5Bv.png",
                     "video": "https://league2eb.me/wuf/2.mp4",
-                    "photographer":"https://s2.loli.net/2022/03/06/4pGY6jV3AxdStgh.png",
+                    "photographer": [
+                        {
+                            "image": "https://s2.loli.net/2022/03/06/F7gzi3rbocVfeaX.png"
+                        },
+                        {
+                            "image": "https://s2.loli.net/2022/03/06/hDYZyk8BmbleRvi.png"
+                        }
+                    ],
                     "code": "IO-XVF02"
-                    
                 },
                 {
                     "title": "下",
                     "image": "https://s2.loli.net/2022/02/25/p38OIxMdFRQvB51.png",
                     "video": "https://league2eb.me/wuf/3.mp4",
-                    "photographer":"https://s2.loli.net/2022/03/06/hDYZyk8BmbleRvi.png",
+                    "photographer": [
+                        {
+                            "image": "https://s2.loli.net/2022/03/06/F7gzi3rbocVfeaX.png"
+                        },
+                        {
+                            "image": "https://s2.loli.net/2022/03/06/hDYZyk8BmbleRvi.png"
+                        },
+                        {
+                            "image": "https://s2.loli.net/2022/03/06/a2vwfoJZstU6huH.png"
+                        }
+                    ],
                     "code": "IO-XVF03"
                 }
             ]
@@ -92,21 +112,69 @@
                     "title": "2015",
                     "image": "https://s2.loli.net/2022/02/25/2iDrhskzCRovPSl.png",
                     "video": "https://league2eb.me/wuf/4.mp4",
-                    "photographer":"https://s2.loli.net/2022/03/06/a2vwfoJZstU6huH.png",
+                    "photographer": [
+                        {
+                            "image": "https://s2.loli.net/2022/03/06/F7gzi3rbocVfeaX.png"
+                        },
+                        {
+                            "image": "https://s2.loli.net/2022/03/06/hDYZyk8BmbleRvi.png"
+                        },
+                        {
+                            "image": "https://s2.loli.net/2022/03/06/a2vwfoJZstU6huH.png"
+                        },
+                        {
+                            "image": "https://s2.loli.net/2022/03/06/hGYHqXad4R9o8yO.png"
+                        }
+                    ],
                     "code": "IO-XVF04"
                 },
                 {
                     "title": "2016",
                     "image": "https://s2.loli.net/2022/02/25/FG7kz8Lwx9Hi5Bv.png",
                     "video": "https://league2eb.me/wuf/5.mp4",
-                    "photographer":"https://s2.loli.net/2022/03/06/hGYHqXad4R9o8yO.png",
+                    "photographer": [
+                        {
+                            "image": "https://s2.loli.net/2022/03/06/F7gzi3rbocVfeaX.png"
+                        },
+                        {
+                            "image": "https://s2.loli.net/2022/03/06/F7gzi3rbocVfeaX.png"
+                        },
+                        {
+                            "image": "https://s2.loli.net/2022/03/06/F7gzi3rbocVfeaX.png"
+                        },
+                        {
+                            "image": "https://s2.loli.net/2022/03/06/F7gzi3rbocVfeaX.png"
+                        },
+                        {
+                            "image": "https://s2.loli.net/2022/03/06/F7gzi3rbocVfeaX.png"
+                        }
+                    ],
                     "code": "IO-XVF05"
                 },
                 {
                     "title": "2017",
                     "image": "https://s2.loli.net/2022/02/25/p38OIxMdFRQvB51.png",
                     "video": "https://league2eb.me/wuf/6.mp4",
-                    "photographer":"https://s2.loli.net/2022/03/06/vDrNebYnClqKgHw.png",
+                    "photographer": [
+                        {
+                            "image": "https://s2.loli.net/2022/03/06/F7gzi3rbocVfeaX.png"
+                        },
+                        {
+                            "image": "https://s2.loli.net/2022/03/06/F7gzi3rbocVfeaX.png"
+                        },
+                        {
+                            "image": "https://s2.loli.net/2022/03/06/F7gzi3rbocVfeaX.png"
+                        },
+                        {
+                            "image": "https://s2.loli.net/2022/03/06/F7gzi3rbocVfeaX.png"
+                        },
+                        {
+                            "image": "https://s2.loli.net/2022/03/06/F7gzi3rbocVfeaX.png"
+                        },
+                        {
+                            "image": "https://s2.loli.net/2022/03/06/F7gzi3rbocVfeaX.png"
+                        }
+                    ],
                     "code": "IO-XVF06"
                 }
             ]
